@@ -1,5 +1,11 @@
 ### Hi there, I am Jhimy Michel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
+I am a software engineer enthusiatic for web technologies.
+
+Master student at [ZHAW](https://www.zhaw.ch/en/university/).
+
+Part time full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jhimy-michel&show_icons=true&theme=dracula" />
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhimy-michel&layout=compact" />
