@@ -2,9 +2,9 @@
 
 I am a software engineer enthusiatic for web technologies.
 
-Master student at [ZHAW](https://www.zhaw.ch/en/university/).
+Currently I am a Master student at [ZHAW](https://www.zhaw.ch/en/university/).
 
-Part time full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
+And I am also part time full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jhimy-michel&show_icons=true&theme=dracula" />
 
