@@ -1,10 +1,10 @@
 ### Hi there, I am Jhimy Michel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
-I am a software engineer enthusiatic for web technologies.
+I am a software engineer enthusiastic about web technologies.
 
-I completed my master studies in Computer Sciences at [ZHAW](https://www.zhaw.ch/en/university/).
+I completed my master's studies in Computer Sciences at [ZHAW](https://www.zhaw.ch/en/university/).
 
-And now I am wokring as full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
+And now I am working as a full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jhimy-michel&show_icons=true&theme=dracula" />
 
