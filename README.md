@@ -2,10 +2,6 @@
 
 I am a software engineer enthusiastic about web technologies.
 
-I completed my master's studies in Computer Sciences at [ZHAW](https://www.zhaw.ch/en/university/).
-
-And now I am working as a full stack developer at [ZHAW ICP](https://www.zhaw.ch/en/engineering/institutes-centres/icp-institute-of-computational-physics/).
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jhimy-michel&show_icons=true&theme=dracula" />
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhimy-michel&layout=compact" />
